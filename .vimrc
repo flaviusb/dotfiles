@@ -4,6 +4,11 @@ call pathogen#helptags()
 
 filetype plugin indent on
 
+" Some gentoo devs are smarmy shits, so we have to do this
+let g:leave_my_textwidth_alone=1
+" Note for the future: run this command to see where eg &tw is set
+" :verbose set tw?
+
 set nocompatible
 
 set modelines=0
