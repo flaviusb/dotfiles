@@ -83,6 +83,8 @@ map! <Leader>==  ≡
 map! <Leader>!== ≢
 map! <Leader>!~= ≇
 map! <Leader>?   ؟
+map! <Leader><   ‹
+map! <Leader>>   ›
 map! <Leader><<  «
 map! <Leader>>>  »
 map! <Leader>-o  ⊸
